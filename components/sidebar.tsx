@@ -105,7 +105,7 @@ const Sidebar = () => {
             ))}
           </List>
         </Box>
-        <Divider color="gray.800" />
+        <Divider color="gray.800" paddingY="10px" />
         <Box height="66%" overflowY="auto" paddingY="20px">
           <List spaceing={2}>
             {playlists.map((playlist) => (
