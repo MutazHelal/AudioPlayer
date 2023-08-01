@@ -1,7 +1,7 @@
 ## AudioPlayer
 Audio player with features like playlists, skip, shuffle, pause and play. React, Next.js, Typescript, and Postgres. Cookies, database schemas, migrations, and API calls with serverless functions.
 
-Note: Due to the increase in the cost to host a database on Heroku($10/month from it being free), sign-in auth does not currently work. I might bring it back in the future or feel free to fork and add it yourself (:
+**Note: Due to the increase in the cost to host a database on Heroku($10/month from it being free), sign-in auth does not currently work. I might bring it back in the future or feel free to fork and add it yourself (:**
 
 ## Getting Started
 
